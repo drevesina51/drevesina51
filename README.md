@@ -21,7 +21,7 @@ https://docs.google.com/document/d/1GtZA-ha088fqyBAyRMFq6DC_P2KPBUOv/edit?usp=sh
 
 
 ### Посмотреть, послушать и почитать меня
- [телеграммы](https://t.me/horny_sasan).
+ [телеграмм](https://t.me/horny_sasan).
 
 ### Пройденные курсы
 - WorldSkills 1.2 Цифровая трансформация"
