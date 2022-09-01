@@ -5,12 +5,8 @@
 - C - Junior
 - С++ - Junior
 - asm - Junior
-- 
-
-### Организация CTF
-- Администрация инфраструктуры SPRUSH CTF 2020, [SPRUSH CTF Quals 2021](https://ctftime.org/event/1239) (Yandex.Cloud, Nginx, Docker, Prometheus, Grafana)
-- Инфраструктурная разработка предстоящего SPRUSH CTF Finals 2021 в формате A/D (Yandex.Cloud, Terraform, Ansible, OpenVPN)
-- Администрация инфраструктуры [Предпрофессионального Экзамена по Информационной Безопасности](https://predprof.mephi.ru/class/9) (Yandex.Cloud, Docker, Nginx)
+- Pascal - Junior
+- Skuirrel, TypeScript, Python - небольшой опыт
 
 ### Некоторые достижения
 #### Школьные олимпиады:
