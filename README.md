@@ -28,7 +28,7 @@ https://docs.google.com/document/d/1GtZA-ha088fqyBAyRMFq6DC_P2KPBUOv/edit?usp=sh
 - Fundamentals of Accelerated Computing with CUDA C/C++
 
 ### Языки
-- :gb: English -  Upper-Intermediate Источник
+- :gb: English -  Upper-Intermediate
 
 ### Контакты
 [Telegram](https://t.me/kaktus82)
