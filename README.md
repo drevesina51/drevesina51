@@ -1,5 +1,7 @@
 ### Обо мне
 - НИЯУ МИФИ, ИИКС, Информатика и Вычислительная Техника '12
+- 
+![rick](https://github.com/drevesina51/images/blob/main/7b7F.gif)
 
 ### Технический стек
 - C - Junior
