@@ -25,6 +25,8 @@ https://docs.google.com/document/d/1GtZA-ha088fqyBAyRMFq6DC_P2KPBUOv/edit?usp=sh
 ### Посмотреть, послушать и почитать меня
  [телеграмм](https://t.me/horny_sasan).
 
+### Опыт работы
+- пол года стажировки ООО "Сантехстрой" на должность помощника главного программиста . 
 ### Пройденные курсы
 - WorldSkills 1.2 Цифровая трансформация"
 - Fundamentals of Accelerated Computing with CUDA C/C++
